@@ -5,8 +5,7 @@ from os.path import split,join,isdir
 folder_name=[]
 
 rmfolder=[
-    'School_project',
-    '',
+    ''
 ]
 
 ignore=['lawlgz.logzz','log.txt','.git']
